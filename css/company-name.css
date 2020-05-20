@@ -1,0 +1,40 @@
+.company-name {
+  height: 518px;
+  padding-top: 158px;
+  background: linear-gradient(180deg, rgba(53, 133, 46, 0) 0%, rgba(0, 0, 0, 0.758) 97.4%), url("../images/bee1.svg");
+}
+
+.company-name .logo-block {
+  position: relative;
+  top: 97px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.536), rgba(0, 0, 0, 0.536));
+  border-radius: 90px 90px 0px 90px;
+  width: 623px;
+  height: 167px;
+}
+
+.company-name .logo-block h1 {
+  position: absolute;
+  top: 21px;
+  left: 55px;
+  font-weight: 500;
+  font-size: 50px;
+  color: #F4F4ED;
+}
+
+.company-name .logo-block h3 {
+  position: absolute;
+  top: 95px;
+  left: 55px;
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #F4F4ED;
+}
+
+.company-name .honey {
+  position: absolute;
+  top: 259px;
+  left: 145px;
+}

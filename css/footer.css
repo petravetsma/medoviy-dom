@@ -1,0 +1,29 @@
+footer {
+  background: #313131;
+  height: 227px;
+}
+
+footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 227px;
+}
+
+footer .logo h2 {
+  font-size: 24px;
+  color: #ED790D;
+  letter-spacing: 2px;
+}
+
+footer .logo h3 {
+  font-size: 16px;
+  letter-spacing: 2.5px;
+  color: #FFFFFF;
+
+}
+
+footer .copyright {
+  font-size: 14px;
+  color: #FCFCFC;
+}

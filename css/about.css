@@ -1,0 +1,78 @@
+.about h2 {
+  padding-top: 90px;
+  font-weight: 500;
+  font-size: 12.6px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #ED790D;
+}
+
+.about .container > p {
+  margin-top: 9px;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 40px;
+  color: #282C3F;
+}
+
+.about .columns-3 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  margin-bottom: 91px;
+}
+
+.about .columns-3 section {
+  position: relative;
+  margin-top: 20px;
+  width: 362px;
+  height: 362px;
+  border: 1px solid #EB8F3B;
+  border-radius: 120px 0px 120px 120px;
+}
+
+.about .columns-3 section span {
+  position: absolute;
+  top: 60px;
+  left: 36px;
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  background: rgba(247, 243, 241, 0.36);
+  background-repeat: no-repeat;
+  background-position-x: 20px;
+  background-position-y: 18px;
+  border: 1px solid rgba(237, 94, 13, 0.5);
+  border-radius: 50%;
+}
+
+.about .columns-3 section:first-child span {
+  background-image: url("../images/Group.svg");
+}
+
+.about .columns-3 section:nth-child(2) span {
+  background-image: url("../images/cup.svg");
+}
+
+.about .columns-3 section:nth-child(3) span {
+  background-image: url("../images/bee2.svg");
+}
+
+.about .columns-3 section h3 {
+  margin-top: 149px;
+  margin-left: 36px;
+  font-weight: 500;
+  font-size: 27px;
+  color: #282C3F;
+}
+
+.about .columns-3 section p {
+  width: 290px;
+  height: 96px;
+  margin-top: 13px;
+  margin-left: 36px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #282C3F;
+}

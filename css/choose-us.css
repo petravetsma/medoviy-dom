@@ -1,0 +1,60 @@
+.choose-us {
+background: url("/images/orange_bg.svg"), #F99826;
+padding-bottom: 92px;
+}
+
+.choose-us h2 {
+  padding-top: 91px;
+  font-weight: 500;
+  font-size: 12.6px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.choose-us p {
+  width: 754px;
+  margin-top: 9px;
+  font-size: 27px;
+  line-height: 40px;
+  color: #282C3F;
+}
+
+.choose-us .columns-4 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  border: 1px solid #FFFFFF;
+}
+
+.choose-us .columns-4 > div {
+  width: 250px;
+  height: 228px;
+  margin: 47px 0;
+}
+
+.choose-us .columns-4 .digit {
+  position: relative;
+  left: 83.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 83px;
+  width: 83px;
+  background: rgba(255, 255, 255, 0.64);
+  border-radius: 50%;
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 40px;
+  color: #282C3F;
+}
+
+.choose-us .columns-4 p {
+  width: 250px;
+  height: 120px;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+  color: #282C3F;
+}
